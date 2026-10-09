@@ -33,7 +33,7 @@ Untuk menyelesaikan masalah bisnis di atas, proses analitik dijalankan secara te
 
 ---
 
-## 3. Implementasi Kode Studi Kasus (`analisis_pt_maju.py`)
+## 3. Implementasi Kode Studi Kasus
 
 Berikut adalah ringkasan tahapan implementasi teknis yang digunakan dalam skrip Python:
 
